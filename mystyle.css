@@ -1,0 +1,6 @@
+img:hover{
+		transition: transform .5s;
+		transform: scale(1.1);
+		box-shadow:rgb(105,105,105);
+		border-width:5px;
+}
